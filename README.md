@@ -9,7 +9,7 @@
           - 7. SNS 사이트 (facebook, instagram, twitter)
         -->
 
-<!DOCTYPE html>
+
 <html>
     <head>
         <meta charset="utf-8">
