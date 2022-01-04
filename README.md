@@ -12,7 +12,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Chad's Finding WEB</title>
         <meta charset="utf-8">
     </head>
     <body>
@@ -27,26 +26,6 @@
             <li>SNS 사이트</li>
         </ul>
 
-        <img src="포털_사이트.jpg" width="50">        
-        <h2><a href="포털 사이트.html" target="_blank">포털 사이트</a></h2><p>
-
-        </p><img src="동영상.png" width="50">
-        <h2><a href="영상 재생 사이트.html" target="_blank">영상 재생 사이트</a></h2>
-
-        <img src="위키_사이트.jpg" width="80">
-        <h2><a href="위키 사이트.html" target="_blank">위키 사이트</a></h2>
-
-        <img src="교육_사이트.jpg" width="70">
-        <h2><a href="교육 사이트.html" target="_blank">교육 사이트</a></h2>
-
-        <img src="코로나 관련 사이트.jpg" width="80">
-        <h2><a href="코로나 관련 사이트.html" target="_blank">코로나 관련 사이트</a></h2>
-
-        <img src="롤 관련 사이트.jpg" width="80">
-        <h2><a href="롤 관련 사이트.html" target="_blank">롤 관련 사이트</a></h2>
-
-        <img src="SNS 사이트.jpg" width="80">
-        <h2><a href="SNS 사이트.html" target="_blank">SNS 사이트</a></h2>
 
     </body>
 </html>
